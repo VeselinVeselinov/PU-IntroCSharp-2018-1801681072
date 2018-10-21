@@ -13,13 +13,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyUniqueNumber", "MyUniqueN
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week2", "Week2", "{6AB84B9A-40BD-40D6-9133-61D5D5446771}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find4thDigitInNumber", "Find4thDigitInNumber\Find4thDigitInNumber.csproj", "{153AF265-5639-4460-B4A8-97F52B93336E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find4thDigitInNumber", "Find4thDigitInNumber\Find4thDigitInNumber.csproj", "{153AF265-5639-4460-B4A8-97F52B93336E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingToTheSunWithSoundSpeed", "TravelingToTheSunWithSoundSpeed\TravelingToTheSunWithSoundSpeed.csproj", "{4BF6FD5F-14CA-442A-B241-0EC826FB9192}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TravelingToTheSunWithSoundSpeed", "TravelingToTheSunWithSoundSpeed\TravelingToTheSunWithSoundSpeed.csproj", "{4BF6FD5F-14CA-442A-B241-0EC826FB9192}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateWeightInTheSolarSystem", "CalculateWeightInTheSolarSystem\CalculateWeightInTheSolarSystem.csproj", "{E832FCC8-CCE5-415E-B6A7-E34DF50EFEE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculateWeightInTheSolarSystem", "CalculateWeightInTheSolarSystem\CalculateWeightInTheSolarSystem.csproj", "{E832FCC8-CCE5-415E-B6A7-E34DF50EFEE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecartCoordinates", "DecartCoordinates\DecartCoordinates.csproj", "{98873290-ACA2-4DE2-8D48-FCF2E9C5F4FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecartCoordinates", "DecartCoordinates\DecartCoordinates.csproj", "{98873290-ACA2-4DE2-8D48-FCF2E9C5F4FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Week3", "Week3", "{5E4E110A-9A1D-4AAF-94EA-6531E859E967}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusTicketLuckyNumbers", "BusTicketLuckyNumbers\BusTicketLuckyNumbers.csproj", "{7E23CABD-CF6B-48BA-9B2C-8158652FE308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiserPiggy", "MiserPiggy\MiserPiggy.csproj", "{E722626B-0221-4D74-A3D7-48B502E8E69E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDeckOfCards", "SimpleDeckOfCards\SimpleDeckOfCards.csproj", "{BB57F37B-6B33-42D4-9FAD-6B39A934C446}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +63,18 @@ Global
 		{98873290-ACA2-4DE2-8D48-FCF2E9C5F4FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98873290-ACA2-4DE2-8D48-FCF2E9C5F4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98873290-ACA2-4DE2-8D48-FCF2E9C5F4FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E23CABD-CF6B-48BA-9B2C-8158652FE308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E23CABD-CF6B-48BA-9B2C-8158652FE308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E23CABD-CF6B-48BA-9B2C-8158652FE308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E23CABD-CF6B-48BA-9B2C-8158652FE308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E722626B-0221-4D74-A3D7-48B502E8E69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E722626B-0221-4D74-A3D7-48B502E8E69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E722626B-0221-4D74-A3D7-48B502E8E69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E722626B-0221-4D74-A3D7-48B502E8E69E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB57F37B-6B33-42D4-9FAD-6B39A934C446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB57F37B-6B33-42D4-9FAD-6B39A934C446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB57F37B-6B33-42D4-9FAD-6B39A934C446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB57F37B-6B33-42D4-9FAD-6B39A934C446}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -67,6 +87,9 @@ Global
 		{4BF6FD5F-14CA-442A-B241-0EC826FB9192} = {6AB84B9A-40BD-40D6-9133-61D5D5446771}
 		{E832FCC8-CCE5-415E-B6A7-E34DF50EFEE3} = {6AB84B9A-40BD-40D6-9133-61D5D5446771}
 		{98873290-ACA2-4DE2-8D48-FCF2E9C5F4FD} = {6AB84B9A-40BD-40D6-9133-61D5D5446771}
+		{7E23CABD-CF6B-48BA-9B2C-8158652FE308} = {5E4E110A-9A1D-4AAF-94EA-6531E859E967}
+		{E722626B-0221-4D74-A3D7-48B502E8E69E} = {5E4E110A-9A1D-4AAF-94EA-6531E859E967}
+		{BB57F37B-6B33-42D4-9FAD-6B39A934C446} = {5E4E110A-9A1D-4AAF-94EA-6531E859E967}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {12D1FDB1-2C43-4C61-8590-9520EDFE57A3}
